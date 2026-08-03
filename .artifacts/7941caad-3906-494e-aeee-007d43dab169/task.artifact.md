@@ -1,0 +1,13 @@
+- [/] Enhance Navigation UI
+    - [ ] Create `nav_header.xml`
+    - [ ] Update `activity_main.xml` to include the header
+- [ ] Polish Home Screen
+    - [ ] Update `strings.xml` with new subtitles and labels
+    - [ ] Refine `fragment_home.xml` with elevated components
+- [ ] Refine Quiz Experience
+    - [ ] Update `fragment_quiz.xml` with interactive tiles
+    - [ ] Add "Cancel Quiz" functionality
+- [ ] Improve Results Visuals
+    - [ ] Update `fragment_quiz_won.xml` with celebratory elements
+    - [ ] Update `fragment_quiz_failed.xml` with encouraging elements
+- [ ] Verify build and UI appearance

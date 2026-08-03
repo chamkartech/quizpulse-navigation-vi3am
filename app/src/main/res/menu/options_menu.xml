@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <!--
+        KEY RULE: item id MUST match the fragment id in nav_graph.xml
+
+        nav_graph.xml:     android:id="@+id/aboutFragment"
+        options_menu.xml:  android:id="@+id/aboutFragment"  ← SAME!
+
+        This lets item.onNavDestinationSelected(navController)
+        in MainActivity automatically navigate to aboutFragment.
+        No manual navigate() call needed in the menu handler.
+    -->
+    <item
+        android:id="@+id/aboutFragment"
+        android:title="@string/menu_about"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+</menu>
