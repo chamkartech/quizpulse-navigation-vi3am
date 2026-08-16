@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">QuizPulse</string>
+    <string name="menu_about">About</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="category_android">Android</string>
+    <string name="category_kotlin">Kotlin</string>
+    <string name="category_general">General</string>
+    <string name="btn_start_quiz">Start Quiz</string>
+    <string name="home_subtitle">Test your knowledge with exciting categories!</string>
+    <string name="home_choose_category">Choose Category</string>
+    <string name="nav_header_version">Version 1.0</string>
+    <string name="btn_submit">Submit</string>
+    <string name="placeholder_category">Category</string>
+    <string name="placeholder_question">Question text goes here?</string>
+    <string name="placeholder_progress">Question %1$d / %2$d</string>
+    <string name="title_won">Congratulations!</string>
+    <string name="label_score">Your Score:</string>
+    <string name="btn_play_again">Play Again</string>
+    <string name="btn_share">Share Result</string>
+    <string name="title_failed">Don\'t give up!</string>
+    <string name="msg_failed">Every mistake is a lesson. You\'ll get it next time!</string>
+    <string name="btn_try_again">Try Again</string>
+    <string name="about_title">About QuizPulse</string>
+    <string name="about_description">QuizPulse is a modern quiz application built to demonstrate the power of Jetpack Navigation, Hilt for dependency injection, and Material 3 design.\n\nDeveloped with love for the Android community.</string>
+    <string name="rules_title">How to Play</string>
+    <string name="rules_description">1. Select a category from the home screen.\n\n2. Answer all questions correctly to win. One wrong answer ends the game!\n\n3. Use the progress bar to track your status.\n\n4. Have fun and keep learning!</string>
+</resources>
